@@ -29,5 +29,5 @@ Below, you can find a little bit about myself, links to my current and past proj
 I am actively looking for work in the fields of backend software development or algorithmic quant trading. Please, do reach out to me about any opportunities you think I'm a good fit for!
 
 ## Contact Me
-1) Email me at [michael.glushchenko@gmail.com](michael.glushchenko@gmail.com).
+1) Email me at [michael.glushchenko@gmail.com](mailto:michael.glushchenko@gmail.com).
 2) Message me on [LinkedIn](https://www.linkedin.com/in/michael-glush/).
