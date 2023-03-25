@@ -1,4 +1,4 @@
-# Welcome to my GitHub 👋
+# Welcome To My GitHub 👋
 Below, you can find a little bit about myself, links to my current and past projects, my academic achievements, hobbies, as well as anything else I thought could be helpful in getting to know me!
 
 ## Table of Contents
