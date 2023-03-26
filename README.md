@@ -10,7 +10,7 @@ My name's Michael, and I'm a 22-year-old trading and computer enthusiast. This S
   6) [Contact Me](https://github.com/mglush/mglush/blob/main/README.md#contact-me)  
 
 ## Current Projects
-1) [Open Quant Lab](https://github.com/open-quant-lab) - working with a small team to develop a cross-platform, interoperable open source trading platform where quants can implement and test their trading strategies on actual market data. Currently, the team is working on the general design of the lab, as well as starting to implement the public exchange API.  
+1) [Open Quant Lab](https://github.com/open-quant-lab) - working with a small team to develop a cross-platform, interoperable open source trading platform where quants can implement and test their trading strategies on actual market data. Currently, the team is working on the general design of the lab, as well as starting to implement the public exchange API. Let me know if you would like to contribute to the project, we are always looking for more help!  
 2) [MicroPython Data Aggregation](https://github.com/mglush/data-aggregation) - following my data aggregation project, I would like to rewrite it in MicroPython, so that I can  use it on a Raspberry Pi Pico micrprocessor to scrap the financial APIs on its own.  
 3) [Market Analysis](https://github.com/mglush/market-analysis/) - my friend and I are trying to to break up an arbitrary instrument's price chart into a sequence of patterns, and use a stochastic approach to give a probability a pattern will appear in the given sequence of a patterns.  
 
