@@ -10,16 +10,17 @@ My name's Michael, and I'm a 22-year-old trading and computer enthusiast. This S
   6) [Contact Me](https://github.com/mglush/mglush/blob/main/README.md#contact-me)  
 
 ## Current Projects
-1) Open Quant Lab - working with a small team to develop a cross-platform, interoperable open source trading platform where quants can implement and test their trading strategies on actual market data. Currently, the team is working on the general design of the lab, as well as starting to implement the public exchange API.
-2) Financial Data Aggregation - wrote a data aggregation routine in Python, want to rewrite it in MicroPython and put in on a Raspberry Pi Pico to scrap the financial APIs on its own.
-3) Market Analysis - using financial data to break up a chart into a sequence of patterns, and use a stochastic approach to give possible next patterns in the sequence of a user-inputted ticker; able to continue this project after project (2) is finished.
+1) [Open Quant Lab](https://github.com/open-quant-lab) - working with a small team to develop a cross-platform, interoperable open source trading platform where quants can implement and test their trading strategies on actual market data. Currently, the team is working on the general design of the lab, as well as starting to implement the public exchange API.
+2) [MicroPython Data Aggregation](https://github.com/mglush/data-aggregation) - following my data aggregation project, I would like to rewrite it in MicroPython, so that I can  use it on a Raspberry Pi Pico micrprocessor to scrap the financial APIs on its own.
+3) [Market Analysis](https://github.com/mglush/market-analysis/) - my friend and I are trying to to break up an arbitrary instrument's price chart into a sequence of patterns, and use a stochastic approach to give a probability a pattern will appear in the given sequence of a patterns.
 
 ## Finished Projects
-1) 
+1) [Python Data Aggregation](https://github.com/mglush/data-aggregation).
+2) FILL SECITON IN BEFORE MAKING THIS THANG PUBLIC
 
 
 ## Academic Life
-
+FILL SECITON IN BEFORE MAKING THIS THANG PUBLIC
 
 ## Other Hobbies and Interests
 - **Soccer** - I've played competitive soccer since I was a kid (2006-2019), and still follow a lot of the sport frequently. Started and coached a local soccer club for kids ages 4-10 while in high school.  
