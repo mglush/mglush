@@ -1,5 +1,5 @@
 # Welcome To My GitHub 👋
-My name's Michael, and I'm a 22-year-old trading and computer enthusiast. This Spring, 2023, I will be finishing up my undergrad education at the University of California, Santa Barbara, with Bachelors of Science degrees in Computer Science and Statistics & Data Science. I hope you enjoy looking through my current and past projects, my academic achievements, hobbies, as well as anything else I thought could help you in getting to know me!
+My name's Michael, and I'm a 22-year-old trading and computer enthusiast. This Spring, 2023, I will be finishing up my undergrad education at the University of California, Santa Barbara, with Bachelors of Science degrees in Computer Science and Statistics & Data Science. I hope you enjoy looking through my current and past projects, academic achievements, hobbies, as well as anything else I thought could help you in getting to know me!
 
 ## Table of Contents
   1) [Current Projects](https://github.com/mglush/mglush/blob/main/README.md#current-projects)  
