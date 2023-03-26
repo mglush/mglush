@@ -10,9 +10,12 @@ My name's Michael, and I'm a 22-year-old trading and computer enthusiast. This S
   6) [Contact Me](https://github.com/mglush/mglush/blob/main/README.md#contact-me)  
 
 ## Current Projects
-
+1) Open Quant Lab - working with a small team to develop a cross-platform, interoperable open source trading platform where quants can implement and test their trading strategies on actual market data. Currently, the team is working on the general design of the lab, as well as starting to implement the public exchange API.
+2) Financial Data Aggregation - wrote a data aggregation routine in Python, want to rewrite it in MicroPython and put in on a Raspberry Pi Pico to scrap the financial APIs on its own.
+3) Market Analysis - using financial data to break up a chart into a sequence of patterns, and use a stochastic approach to give possible next patterns in the sequence of a user-inputted ticker; able to continue this project after project (2) is finished.
 
 ## Finished Projects
+1) 
 
 
 ## Academic Life
