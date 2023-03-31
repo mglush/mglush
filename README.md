@@ -15,7 +15,7 @@ My name's Michael, and I'm a 22-year-old trading and computer enthusiast. This S
 3) [Market Analysis](https://github.com/mglush/market-analysis/) - my friend and I are trying to to break up an arbitrary instrument's price chart into a sequence of patterns, and use a stochastic approach to give a probability a pattern will appear in the given sequence of a patterns.  
 
 ## Finished Projects
-1) [Market Maker](https://github.com/mglush/ready-trader-go-2023).  
+1) [ReadyTraderGo 2023 Market Maker](https://github.com/mglush/ready-trader-go-2023).  
 2) [Python Data Aggregation](https://github.com/mglush/data-aggregation).  
 3) [Emart with Oracle Database](https://github.com/mglush/emart).  
 4) [Compiler](https://github.com/mglush/compiler-construction).  
