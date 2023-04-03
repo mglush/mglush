@@ -20,8 +20,8 @@ My name's Michael, and I'm a 22-year-old trading and computer enthusiast. This S
 3) [Emart with Oracle Database](https://github.com/mglush/emart).  
 4) [Compiler](https://github.com/mglush/compiler-construction).  
 5) [Bloom Filter](https://github.com/mglush/bloom-filter).  
-6) Buffer Pool Manager in C++ -- part of a CMU educational resource, unable to share code, but feel free to ask my questions!  
-7) B+ Tree Index in C++ -- part of a CMU educational resource, unable to share code, but feel free to ask my questions!  
+6) Buffer Pool Manager in C++ -- part of a CMU educational resource, unable to share code, but feel free to ask me questions!  
+7) B+ Tree Index in C++ -- part of a CMU educational resource, unable to share code, but feel free to ask me questions!  
 8) [Calculator Webapp with C++ Backend](https://github.com/mglush/calculator-webapp).  
 9) [Seasonal ARIMA](https://github.com/mglush/seasonal_arima).  
 10) [Ping Utility](https://github.com/mglush/ping-utility).  
