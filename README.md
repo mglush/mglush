@@ -3,16 +3,20 @@ My name's Michael, and I'm a 22-year-old trading and computer enthusiast. This S
 
 ## Table of Contents
   1) [Current Projects](https://github.com/mglush/mglush/blob/main/README.md#current-projects)  
-  2) [Finished Projects](https://github.com/mglush/mglush/blob/main/README.md#finished-projects)  
-  3) [University Coursework](https://github.com/mglush/mglush/blob/main/README.md#university-coursework)  
-  4) [Hobbies and Interests](https://github.com/mglush/mglush/blob/main/README.md#hobbies-and-interests)  
-  5) [Looking For](https://github.com/mglush/mglush/blob/main/README.md#looking-for)  
-  6) [Contact Me](https://github.com/mglush/mglush/blob/main/README.md#contact-me)  
+  2) [Paused Projects](https://github.com/mglush/mglush/blob/main/README.md#paused-projects)  
+  3) [Finished Projects](https://github.com/mglush/mglush/blob/main/README.md#finished-projects)  
+  4) [University Coursework](https://github.com/mglush/mglush/blob/main/README.md#university-coursework)  
+  5) [Hobbies and Interests](https://github.com/mglush/mglush/blob/main/README.md#hobbies-and-interests)  
+  6) [Looking For](https://github.com/mglush/mglush/blob/main/README.md#looking-for)  
+  7) [Contact Me](https://github.com/mglush/mglush/blob/main/README.md#contact-me)  
 
 ## Current Projects
 1) [Open Quant Lab](https://github.com/open-quant-lab) - working with a small team to develop a cross-platform, interoperable open source trading platform where quants can implement and test their trading strategies on actual market data. Currently, the team is working on the general design of the lab, as well as starting to implement the public exchange API. Let me know if you would like to contribute to the project, we are always looking for more help!  
-2) [MicroPython Data Aggregation](https://github.com/mglush/data-aggregation) - following my data aggregation project, I would like to rewrite it in MicroPython, so that I can  use it on a Raspberry Pi Pico micrprocessor to scrap the financial APIs on its own.  
-3) [Market Analysis](https://github.com/mglush/market-analysis/) - my friend and I are trying to to break up an arbitrary instrument's price chart into a sequence of patterns, and use a stochastic approach to give a probability a pattern will appear in the given sequence of a patterns.  
+
+## Paused Projects
+I have put the following projects on pause in order to work on the projects listed above:
+1) [MicroPython Data Aggregation](https://github.com/mglush/data-aggregation) - following my data aggregation project, I would like to rewrite it in MicroPython, so that I can  use it on a Raspberry Pi Pico micrprocessor to scrap the financial APIs on its own.  
+2) [Market Analysis](https://github.com/mglush/market-analysis/) - my friend and I are trying to to break up an arbitrary instrument's price chart into a sequence of patterns, and use a stochastic approach to give a probability a pattern will appear in the given sequence of a patterns.  
 
 ## Finished Projects
 1) [ReadyTraderGo 2023 Market Maker](https://github.com/mglush/ready-trader-go-2023).  
