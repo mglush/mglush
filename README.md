@@ -11,7 +11,7 @@ My name's Michael, and I'm a 22-year-old trading and computer enthusiast. This S
   7) [Contact Me](https://github.com/mglush/mglush/blob/main/README.md#contact-me)  
 
 ## Current Projects
-1) [Open Quant Lab](https://github.com/open-quant-lab) - working with a small team to develop a cross-platform, interoperable open source trading platform where quants can implement and test their trading strategies on actual market data. Currently, the team is working on the general design of the lab, as well as starting to implement the public exchange API. Let me know if you would like to contribute to the project, we are always looking for more help!  
+1) [Open Quant Lab](https://github.com/open-quant-lab) - working with a small team to develop a cross-platform, interoperable open source trading software that allows quants to implement and test their trading strategies. The idea is to provide both real market data, as well as different types of generated market data. Currently, the team is working on the general design of the lab, as well as starting to implement the public exchange API. Let me know if you would like to contribute to the project, we are always looking for more help!  
 
 ## Paused Projects
 I have put the following projects on pause in order to work on the projects listed above:
@@ -82,7 +82,7 @@ Other:
 - **Teaching** - being one of my biggest passions, I've tutored high school IB Math, AP Computer Science, and AP Statistics. After briefly working in the industry, I plan to continue my education by pursuing a PhD degree in a field related to CS and Finance (although I have not been able to narrow my choices down to a handful of interests).  
 
 ## Looking For
-I am actively looking for work in the fields of backend software development or algorithmic quant trading. Please, do reach out to me about any opportunities you think I'm a good fit for!  
+I am actively looking for work in the fields of backend software development or algorithmic quant trading. Please, do reach out to me about any opportunities you think I'm a good fit for! I am also very interested in any research opportunities/portpositions.  
 
 ## Contact Me
 1) Email me at [michael.glushchenko@gmail.com](mailto:michael.glushchenko@gmail.com).  
