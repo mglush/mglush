@@ -82,7 +82,7 @@ Other:
 - **Teaching** - being one of my biggest passions, I've tutored high school IB Math, AP Computer Science, and AP Statistics. After briefly working in the industry, I plan to continue my education by pursuing a PhD degree in a field related to CS and Finance (although I have not been able to narrow my choices down to a handful of interests).  
 
 ## Looking For
-I am actively looking for work in the fields of backend software development or algorithmic quant trading. Please, do reach out to me about any opportunities you think I'm a good fit for! I am also very interested in any research opportunities/portpositions.  
+I am actively looking for work in the fields of backend software development or algorithmic quant trading. Please, do reach out to me about any opportunities you think I'm a good fit for! I am also very interested in any research opportunities/propositions.  
 
 ## Contact Me
 1) Email me at [michael.glushchenko@gmail.com](mailto:michael.glushchenko@gmail.com).  
