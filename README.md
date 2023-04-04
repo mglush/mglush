@@ -46,7 +46,7 @@ Computer Science:
 • Parallel Programming  
 • Operating Systems (in progress)  
 
-Statistics: 
+Statistics:  
 • Statistics and Probability Theory I, II, III  
 • Stochastic Processes I, II  
 • Financial Mathematics 
@@ -63,7 +63,7 @@ Phsyics:
 • Intro to Special Relativity and Quantum Mechanics  (in progress)  
 • Physics Labs (classical mechanics, electrcity and circuits, magnetism, quantum physics)  
 
-Other:
+Other:  
 • Critical Thinking  
 • Philosophy of Mind  
 • Engineering Ethics  
