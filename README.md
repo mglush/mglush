@@ -48,7 +48,7 @@ Computer Science:
 
 Statistics:  
 • Statistics and Probability Theory I, II, III  
-• Discrete-Time Stochastic Processes
+• Discrete-Time Stochastic Processes  
 • Continuous-Time Stochastic Processes  
 • Financial Mathematics  
 • Portfolio Theory and Advanced Financial Mathematics (in progress)  
