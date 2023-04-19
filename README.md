@@ -1,5 +1,5 @@
 # Welcome To My GitHub 👋
-My name's Michael, and I'm a 22-year-old trading and computer enthusiast. This Spring, 2023, I will be finishing up my undergrad education at the University of California, Santa Barbara, with Bachelors of Science degrees in Computer Science and Statistics & Data Science. I hope you enjoy looking through my current and past projects, academic achievements, hobbies, as well as anything else I thought could help you in getting to know me!  
+My name's Michael, and I'm a 22-year-old trading, statistics, and computer enthusiast. This Spring, 2023, I will be finishing up my undergrad education at the University of California, Santa Barbara, with Bachelors of Science degrees in Computer Science and Statistics & Data Science. I hope you enjoy looking through my current and past projects, academic achievements, hobbies, as well as anything else I thought could help you in getting to know me!  
 
 ## Table of Contents
   1) [Current Projects](https://github.com/mglush/mglush/blob/main/README.md#current-projects)  
@@ -81,8 +81,9 @@ Other:
 - **Skating** - my way to blow off steam and de-stress after a hard day's work. I started actively street skating my senior year of high school, in 2019, and have stayed with it since.  
 
 ## Looking For
-I am actively looking for work in the fields of backend software development or algorithmic quant trading. Please, do reach out to me about any opportunities you think I'm a good fit for! I am also very interested in any research opportunities/propositions.  
+I am actively looking for work in the fields of backend risk management, algorithmic quant trading, or software development. Please, do reach out to me about any opportunities you think I'm a good fit for! I am also very interested in any research opportunities/propositions.  
 
 ## Contact Me
 1) Email me at [michael.glushchenko@gmail.com](mailto:michael.glushchenko@gmail.com).  
 2) Message me on [LinkedIn](https://www.linkedin.com/in/michael-glush/).  
+3) Phone number available upon request.
