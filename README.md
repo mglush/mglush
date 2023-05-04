@@ -11,8 +11,9 @@ My name's Michael, and I'm a 22-year-old trading, statistics, and computer enthu
   7) [Contact Me](https://github.com/mglush/mglush/blob/main/README.md#contact-me)  
 
 ## Current Projects
-1) [Open Quant Lab](https://github.com/open-quant-lab) - working with a small team to develop a cross-platform, interoperable open source trading software that allows quants to implement and test their trading strategies. The idea is to provide both real market data, as well as different types of generated market data. Currently, the team is working on the general design of the lab, as well as starting to implement the public exchange API. Let me know if you would like to contribute to the project, we are always looking for more help!  
-2) Markowitz Portfolio Management - creating an investment thesis proposal for each of the three given risk profiles of a fictional investor for the years 2015-2020. Will be able to post code at the end of Spring 2023.  
+1) [Open Quant Lab](https://github.com/open-quant-lab) - personal project; working with a small team to develop a cross-platform, interoperable open source trading software that allows quants to implement and test their trading strategies. The idea is to provide both real market data, as well as different types of generated market data. Currently, the team is working on the general design of the lab, as well as starting to implement the public exchange API. Let me know if you would like to contribute to the project, we are always looking for more help!  
+2) Markowitz Portfolio Management - term-long financial math project; creating an investment thesis proposal for each of the three given risk profiles of a fictional investor for the years 2015-2020; able to post code at the end of Spring 2023.  
+3) Nachos Syscalls - opearting systems project; implementing multiprogramming and console I/O system calls for Nachos; able to post code at the end of Spring 2023.  
 
 ## Paused Projects
 I have put the following projects on pause in order to work on the projects listed above:
@@ -24,14 +25,14 @@ I have put the following projects on pause in order to work on the projects list
 2) [Bloom Filter](https://github.com/mglush/bloom-filter).  
 3) [ReadyTraderGo 2023 Market Maker](https://github.com/mglush/ready-trader-go-2023).  
 4) [Python Data Aggregation](https://github.com/mglush/data-aggregation).  
-5) Buffer Pool Manager in C++ -- part of a CMU educational resource, unable to share code, but feel free to ask me questions!  
-6) B+ Tree Index in C++ -- part of a CMU educational resource, unable to share code, but feel free to ask me questions!  
-7) Simple Shell in C -- will be able to make the repo public at the end of Spring 2023.  
-8) Thread Synchronization Primitives (C++) -- will be able to make the repo public at the end of Spring 2023.  
-9) [Emart with Oracle Database](https://github.com/mglush/emart).  
-10) [Calculator Webapp with C++ Backend](https://github.com/mglush/calculator-webapp).  
-11) [Seasonal ARIMA](https://github.com/mglush/seasonal_arima).  
-12) [Ping Utility](https://github.com/mglush/ping-utility).  
+5) [Emart with Oracle Database](https://github.com/mglush/emart).  
+6) [Calculator Webapp with C++ Backend](https://github.com/mglush/calculator-webapp).  
+7) [Seasonal ARIMA](https://github.com/mglush/seasonal_arima).  
+8) [Ping Utility](https://github.com/mglush/ping-utility).  
+9) Buffer Pool Manager in C++ -- part of a CMU educational resource, unable to share code, but feel free to ask me questions!  
+10) B+ Tree Index in C++ -- part of a CMU educational resource, unable to share code, but feel free to ask me questions!  
+11) Simple Shell in C -- will be able to make the repo public at the end of Spring 2023.  
+12) Thread Synchronization Primitives (C++) -- will be able to make the repo public at the end of Spring 2023.  
 
 ## University Coursework
 Computer Science:  
