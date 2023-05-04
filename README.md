@@ -12,8 +12,8 @@ My name's Michael, and I'm a 22-year-old trading, statistics, and computer enthu
 
 ## Current Projects
 1) [Open Quant Lab](https://github.com/open-quant-lab) - personal project; working with a small team to develop a cross-platform, interoperable open source trading software that allows quants to implement and test their trading strategies. The idea is to provide both real market data, as well as different types of generated market data. Currently, the team is working on the general design of the lab, as well as starting to implement the public exchange API. Let me know if you would like to contribute to the project, we are always looking for more help! We plan to make the repo public by end of summer 2023.  
-2) Markowitz Portfolio Management - term-long financial math project; creating an investment thesis proposal for each of the three given risk profiles of a fictional investor for the years 2015-2020; able to post code at the end of Spring 2023.  
-3) Nachos Syscalls - opearting systems project; implementing multiprogramming and console I/O system calls for Nachos; able to post code at the end of Spring 2023.  
+2) [Markowitz Portfolio Management](https://github.com/pstat176-portfolio-management) - term-long financial math project; creating an investment thesis proposal for each of the three given risk profiles of a fictional investor for the years 2015-2020; repo will be made public at the end of Spring 2023.  
+3) [Nachos Syscalls](https://github.com/mglush/nachos_syscalls) - opearting systems project; implementing multiprogramming and console I/O system calls for Nachos; repo will be made public at the end of Spring 2023.  
 
 ## Paused Projects
 I have put the following projects on pause in order to work on the projects listed above:
@@ -30,8 +30,8 @@ I have put the following projects on pause in order to work on the projects list
 7) [Seasonal ARIMA](https://github.com/mglush/seasonal_arima).  
 8) [Ping Utility](https://github.com/mglush/ping-utility).  
 9) Buffer Pool Manager in C++ -- part of a CMU educational resource, unable to share code, but feel free to ask me questions!  
-10) B+ Tree Index in C++ -- part of a CMU educational resource, unable to share code, but feel free to ask me questions!  
-11) Simple Shell in C -- will be able to make the repo public at the end of Spring 2023.  
+10) [B+ Tree Index in C++](https://github.com/mglush/thread_synch) -- part of a CMU educational resource, unable to share code, but feel free to ask me questions!  
+11) [Simple Shell in C](https://github.com/mglush/simple_shell) -- will be able to make the repo public at the end of Spring 2023.  
 12) Thread Synchronization Primitives (C++) -- will be able to make the repo public at the end of Spring 2023.  
 
 ## University Coursework
