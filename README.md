@@ -30,9 +30,9 @@ I have put the following projects on pause in order to work on the projects list
 7) [Seasonal ARIMA](https://github.com/mglush/seasonal_arima).  
 8) [Ping Utility](https://github.com/mglush/ping-utility).  
 9) Buffer Pool Manager in C++ -- part of a CMU educational resource, unable to share code, but feel free to ask me questions!  
-10) [B+ Tree Index in C++](https://github.com/mglush/thread_synch) -- part of a CMU educational resource, unable to share code, but feel free to ask me questions!  
-11) [Simple Shell in C](https://github.com/mglush/simple_shell) -- will be able to make the repo public at the end of Spring 2023.  
-12) Thread Synchronization Primitives (C++) -- will be able to make the repo public at the end of Spring 2023.  
+10) B+ Tree Index in C++ -- part of a CMU educational resource, unable to share code, but feel free to ask me questions!  
+11) [Simple Shell Implementation in C](https://github.com/mglush/simple_shell) -- will be able to make the repo public at the end of Spring 2023.  
+12) [Thread Synchronization Primitives in C++](https://github.com/mglush/thread_synch) -- will be able to make the repo public at the end of Spring 2023.  
 
 ## University Coursework
 Computer Science:  
@@ -54,8 +54,8 @@ Statistics:
 • Statistics and Probability Theory I, II, III  
 • Discrete-Time Stochastic Processes  
 • Continuous-Time Stochastic Processes  
-• Financial Mathematics  
-• Portfolio Theory and Advanced Financial Mathematics (in progress)  
+• Financial Mathematics (Pricing Derivatives)  
+• Advanced Financial Mathematics (Markowitz Portfolio Theory) (in progress)  
 • Time Series Analysis  
 • Experiment Design & Analysis of Variance  
 • Regression Analysis  
