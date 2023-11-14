@@ -11,7 +11,8 @@ My name's Michael, and I'm a 22-year-old trading, statistics, and computer enthu
   7) [Contact Me](https://github.com/mglush/mglush/blob/main/README.md#contact-me)  
 
 ## Current Projects
-1) [Open Quant Lab](https://github.com/open-quant-lab) - personal open-source project; working with a small team to develop a cross-platform, interoperable open source trading software that allows quants to implement and test their trading strategies. The idea is to provide both real market data, as well as different types of generated market data. Currently, the team is working on the general design of the lab, as well as starting to implement the public exchange API. Let me know if you would like to contribute to the project, we are always looking for more help! We plan to make the repo public by end of 2023.  
+1) [Open Quant Lab](https://github.com/open-quant-lab) - personal open-source project; working with a small team to develop a cross-platform, interoperable open source trading software that allows quants to implement and test their trading strategies. The idea is to provide both real market data, as well as different types of generated market data. Currently, the team is working on the general design of the lab, as well as starting to implement the public exchange API. Let me know if you would like to contribute to the project, we are always looking for more help! We plan to make the repo public by end of 2023.
+2) [Markowitz Portfolio Management](https://github.com/pstat176-portfolio-management) -- given a risk framework, we create a stock portfolio for three different risk apetites, from the years 2015 through 2020 (inclusive).  
 
 ## Paused Projects
 I have put the following projects on pause in order to work on the projects listed above:
@@ -32,8 +33,7 @@ I have put the following projects on pause in order to work on the projects list
 11) [Simple Shell Implementation in C](https://github.com/mglush/simple_shell).  
 12) [RWLock Implementation Using pthreads Locks and CVs](https://github.com/mglush/rw_lock).  
 13) [Thread Synchronization Primitives in C++](https://github.com/mglush/thread_synch).
-14) [Implementing NachOS Syscalls](https://github.com/mglush/nachos_syscalls).
-15) [Markowitz Portfolio Management](https://github.com/pstat176-portfolio-management).  
+14) [Implementing NachOS Syscalls](https://github.com/mglush/nachos_syscalls).  
 
 ## University Coursework
 Computer Science:  
