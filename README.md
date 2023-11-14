@@ -81,13 +81,14 @@ Other:
 ## Hobbies and Interests
 - **Soccer** - First, I played for Metallist while I lived in Kharkiv (2006-2013). After moving to Pleasanton, California, I played for Ballistic United Soccer Club (2013-2015,2017-2019), Mustang Soccer Club (2015-2017), Amador Valley High School JV (2015-2018). While in Pleasanton, I would also go to Danville Futsal Meet-Ups with dad. Around this time, I also started and coached a local soccer club for kids ages 4-10 while in high school. I am currently playing Intermediate Intramural Soccer at UCSB.  
 - **Philosophy** - ever since my roommate introduced me to several Heidegger readings my freshman year at UCSB, I've been avidly reading Aristotle, Aurelius, Hume, Kant, and more. I think it's both important and incredibly interesting to read about the thoughts people had in the past; it's almost as if one is able to see the evolution of human thought this way. I also find that it helps me to understand where other people come from when they try getting their ideas across to me.  
-- **Reading** - philosophy brought back my interest for reading, and helped me get into fiction literature again. Love reading anything from Mark Twain to Jack London to Stephen King to Toni Morrison.  
-- **Chess** - I played against my father since I was young, but never actually took the time to learn any theory. When 2023 began, I started actively playing online chess and trying to improve my game. As of March 2023, my rating is 891.  
+- **Reading** - philosophy brought back my interest for reading, and helped me get into fiction literature again. Love reading anything from Mark Twain to Jack London to Stephen King to Toni Morrison to Ray Dalio.  
+- **Chess** - I played against my father since I was young, but never actually took the time to learn any theory. When 2023 began, I started actively playing online chess and trying to improve my game. As of October 2023, my rapid rating is 1275 and my blitz rating is 1050. One of my next few projects will definitely be trying to create a chess bot that plays at a 2000+ level.  
+- **Pokekr** - I play both in person and online. The balance between estimating expected values and judging your opponent's behavior really draws me to this game. In the future, I would be very interested in trying to make a program that plays head to head and three-person poker optimally, according to game theory.  
 - **Fishing** - both my grandpa and my dad love fishing, and that stayed with me; nothing beats waking up at 3-4 AM only to go out on the water and have the most peaceful couple hours of a lifetime.  
 - **Skating** - my way to blow off steam and de-stress after a hard day's work. I started actively street skating my senior year of high school, in 2019, and have stayed with it since.  
 
 ## Looking For
-I am actively looking for work in the fields of risk management, quant research, algorithmic quant trading, or backend software development. Please, do reach out to me about any opportunities you think I'm a good fit for! I am also very interested in any research opportunities/propositions.  
+I am actively looking for work in the fields of software engineering (backend or embedded), quant research, algorithmic quant trading, or risk management. Please, do reach out to me about any opportunities you think I'm a good fit for! I am also very interested in any research opportunities/propositions.  
 
 ## Contact Me
 1) Email me at [michael.glushchenko@gmail.com](mailto:michael.glushchenko@gmail.com).  
