@@ -12,7 +12,6 @@ My name's Michael, and I'm a 22-year-old trading, statistics, and computer enthu
 
 ## Current Projects
 1) [Open Quant Lab](https://github.com/open-quant-lab) - personal open-source project; working with a small team to develop a cross-platform, interoperable open source trading software that allows quants to implement and test their trading strategies. The idea is to provide both real market data, as well as different types of generated market data. Currently, the team is working on the general design of the lab, as well as starting to implement the public exchange API. Let me know if you would like to contribute to the project, we are always looking for more help! We plan to make the repo public by end of 2023.  
-2) [Markowitz Portfolio Management](https://github.com/pstat176-portfolio-management) - term-long financial math project; creating an investment thesis proposal for each of the three given risk profiles of a fictional investor for the years 2015-2020; repo will be made public at the end of Spring 2023.
 
 ## Paused Projects
 I have put the following projects on pause in order to work on the projects listed above:
@@ -33,7 +32,8 @@ I have put the following projects on pause in order to work on the projects list
 11) [Simple Shell Implementation in C](https://github.com/mglush/simple_shell).  
 12) [RWLock Implementation Using pthreads Locks and CVs](https://github.com/mglush/rw_lock).  
 13) [Thread Synchronization Primitives in C++](https://github.com/mglush/thread_synch).
-14) [Implementing NachOS Syscalls](https://github.com/mglush/nachos_syscalls).  
+14) [Implementing NachOS Syscalls](https://github.com/mglush/nachos_syscalls).
+15) [Markowitz Portfolio Management](https://github.com/pstat176-portfolio-management).  
 
 ## University Coursework
 Computer Science:  
@@ -49,32 +49,33 @@ Computer Science:
 • Assembly Programming  
 • Computer Hardware  
 • Parallel Programming  
-• Operating Systems (in progress)  
+• Operating Systems  
 
 Statistics:  
 • Statistics and Probability Theory I, II, III  
 • Discrete-Time Stochastic Processes  
 • Continuous-Time Stochastic Processes  
 • Financial Mathematics (Pricing Derivatives)  
-• Advanced Financial Mathematics (Markowitz Portfolio Theory) (in progress)  
+• Advanced Financial Mathematics (Markowitz Portfolio Theory)  
 • Time Series Analysis  
 • Experiment Design & Analysis of Variance  
 • Regression Analysis  
 • Advanced Statistical Models  
 • SAS Base  
+• Mathematics of Fixed Income Markets  
 
 Phsyics:  
 • Classical Mechanics  
 • Electrostatics, Electromagnetism, Optics  
-• Intro to Special Relativity and Quantum Mechanics  (in progress)  
+• Intro to Special Relativity and Quantum Mechanics  
 • Physics Labs (classical mechanics, electrcity and circuits, magnetism, quantum physics)  
 
 Other:  
 • Critical Thinking  
 • Philosophy of Mind  
 • Engineering Ethics  
-• 1800-1899 American Literature  (in progress)  
-• Culture Clash (Chicano Theater)  (in progress)  
+• 1800-1899 American Literature  
+• Culture Clash (Chicano Theater)  
 • Dead Sea Scrolls  
 
 ## Hobbies and Interests
