@@ -31,9 +31,9 @@ I have put the following projects on pause in order to work on the projects list
 8) [Ping Utility](https://github.com/mglush/ping-utility).  
 9) Buffer Pool Manager in C++ -- part of a CMU educational resource, unable to share code, but feel free to ask me questions!  
 10) B+ Tree Index in C++ -- part of a CMU educational resource, unable to share code, but feel free to ask me questions!  
-11) [Simple Shell Implementation in C](https://github.com/mglush/simple_shell) -- will be able to make the repo public at the end of Spring 2023.  
-12) [RWLock Implementation Using pthreads Locks and CVs](https://github.com/mglush/rw_lock) -- will be able to make the repo public at the end of Spring 2023.  
-13) [Thread Synchronization Primitives in C++](https://github.com/mglush/thread_synch) -- will be able to make the repo public at the end of Spring 2023.  
+11) [Simple Shell Implementation in C](https://github.com/mglush/simple_shell).  
+12) [RWLock Implementation Using pthreads Locks and CVs](https://github.com/mglush/rw_lock).  
+13) [Thread Synchronization Primitives in C++](https://github.com/mglush/thread_synch).  
 
 ## University Coursework
 Computer Science:  
