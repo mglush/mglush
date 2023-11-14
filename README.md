@@ -7,7 +7,7 @@ My name's Michael, and I'm a 22-year-old trading, statistics, and computer enthu
   3) [Finished Projects](https://github.com/mglush/mglush/blob/main/README.md#finished-projects)  
   4) [University Coursework](https://github.com/mglush/mglush/blob/main/README.md#university-coursework)  
   5) [Hobbies and Interests](https://github.com/mglush/mglush/blob/main/README.md#hobbies-and-interests)  
-  6) [Looking For](https://github.com/mglush/mglush/blob/main/README.md#looking-for)  
+  6) [Jobs I am Looking For](https://github.com/mglush/mglush/blob/main/README.md#looking-for)  
   7) [Contact Me](https://github.com/mglush/mglush/blob/main/README.md#contact-me)  
 
 ## Current Projects
