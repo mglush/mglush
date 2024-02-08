@@ -1,5 +1,5 @@
 # Welcome To My GitHub 👋
-My name's Michael, and I'm a 22-year-old trading, statistics, and computer enthusiast. I have recently graduated from the University of California, Santa Barbara, with Bachelors of Science degrees in Computer Science and Statistics & Data Science, and am about to start working for IMC Trading as a Jr. Trading Operations Specialist. I hope you enjoy looking through my current and past projects, academic achievements, hobbies, as well as anything else I thought could help you in getting to know me!  
+My name's Michael, and I'm a 22-year-old trading, statistics, and computer enthusiast. I have recently graduated from the University of California, Santa Barbara, with Bachelors of Science degrees in Computer Science and Statistics & Data Science. I am currently a Graduate Trading Operations Specialist at IMC Trading! I hope you enjoy looking through my current and past projects, academic achievements, hobbies, as well as anything else I thought could help you in getting to know me!  
 
 ## Table of Contents
   1) [Current Projects](https://github.com/mglush/mglush/blob/main/README.md#current-projects)  
